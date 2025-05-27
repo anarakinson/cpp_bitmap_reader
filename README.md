@@ -4,7 +4,7 @@
 ### Console application for working with BMP files.
 
 ***
-### Made:
+### Was done:
 
 Cross-platform console application.
 
