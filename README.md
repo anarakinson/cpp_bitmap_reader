@@ -1,5 +1,6 @@
 ---
 
+***
 ## Name:
 ### Console application for working with BMP files.
 
